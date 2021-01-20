@@ -10,7 +10,14 @@ The roadmap is periodically updated to reflect new challenges and priorities we 
 DEUS is a team-led effort, spanning multiple work groups with people from all parts of the world. We have an [entire section](https://wiki.deus.finance/docs/dao) for you to find out more.
 
 #### Have any security audits been done?
-Security is always on our mind. Our first external audit, conducted by Solidity.finance found [no security issues](https://twitter.com/DeusDao/status/1329439248399921154) in our contracts. 
+Security is always on our mind.
+
+Our first external audit, conducted by Solidity.finance found [no security issues](https://twitter.com/DeusDao/status/1329439248399921154) in our contracts. 
+
+The second external audit vas done by Coinbae.org, they've audited three contracts. They assessed low risk and suggested minor, easily done improvements.
+sToken contracts audit https://coinbae.org/media/files/audit_File_Vv67KcySJw/Deus%20Finance%20Sandtoken%20Audit.pdf
+Staking contracts audit https://coinbae.org/media/files/audit_File_IcoOGFNHeX/Deus%20Finance%20DEAStaking%20Pool%20Audit.pdf
+Vaults contracts audit https://coinbae.org/media/files/audit_File_6x5JY82PyC/Deus%20Finance%20Vault%20Audit.pdf
 
 #### You have no KYC or AML, can the SEC shut you down?
 According to [the Howey Test](https://medium.com/hackernoon/ethereum-security-sec-a145d638f5aa), an investment contract has to meet 4 criteria, one of which is it has to be “resulting from the sole efforts of a third party”. There is no single entity behind DEUS. It can potentially be used by anyone and is governed by multiple individuals. 
